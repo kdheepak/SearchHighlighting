@@ -1,0 +1,3 @@
+*SearchHighlighting.txt*    Highlighting of searches via star, auto-highlighting.
+
+http://vim.wikia.com/wiki/Search_for_visually_selected_text
